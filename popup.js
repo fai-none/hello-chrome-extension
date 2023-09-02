@@ -1,1 +1,1 @@
-console.log("This is a popup! :D");
+alert("This is a popup! :D");
